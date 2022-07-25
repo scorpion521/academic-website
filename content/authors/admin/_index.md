@@ -1,17 +1,17 @@
 ---
 # Display name
-title: （图学习研讨会）Learning On Graphs Seminar
+title: Learning On Graphs Seminar（图学习研讨会）
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: A platform for communication, discussion and learning
+（交流、研讨、学习平台）
 
 # Organizations/Affiliations to show in About widget
-organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+organizations: 
+
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
