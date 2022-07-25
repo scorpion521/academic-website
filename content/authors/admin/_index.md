@@ -6,13 +6,7 @@ title: （图学习研讨会）Learning On Graphs Seminar
 superuser: true
 
 # Role/position/tagline
-role: （交流、研讨、学习平台）A platform for communication, discussion and learning
-<<<<<<<<< Temporary merge branch 1
-
-# Role/position/tagline
-role: comm
-=========
->>>>>>>>> Temporary merge branch 2
+role: （图学习深层次交流的社区）Learn the community of deep communication.
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
