@@ -9,8 +9,7 @@ superuser: true
 role: A platform for communication, discussion and learning
 （交流、研讨、学习平台）
 
-# Organizations/Affiliations to show in About widget
-organizations: 
+
 
 
 # Short bio (displayed in user profile at end of posts)
