@@ -1,15 +1,12 @@
 ---
 # Display name
-title: Learning On Graphs Seminar（图学习研讨会）
+title: （图学习研讨会）Learning On Graphs Seminar
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: A platform for communication, discussion and learning
-（交流、研讨、学习平台）
-# Role/position/tagline
-role: comm
+role: （交流、研讨、学习平台）A platform for communication, discussion and learning
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
