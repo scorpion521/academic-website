@@ -1,12 +1,12 @@
 ---
 # Display name
-title: Learning On Graphs Seminar
+title:图学习研讨会（Learning On Graphs Seminar）
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: 交流，研讨，学习平台（A platform for communication, discussion and learning）
 
 # Organizations/Affiliations to show in About widget
 organizations:
