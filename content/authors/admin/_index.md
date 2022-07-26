@@ -9,23 +9,27 @@ superuser: true
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 # Interests to show in About widget
-interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+相关主题:
+  - 图表示学习
+  - 图神经网络：表达性，可扩展性，鲁棒性等
+  - 图分类，节点分类，链接预测，图聚类等
+  - 图与NLP，图与CV，图与语音
+  - 图与推荐
+  - 图与交通
+  - 图与药物
+  - 图与科学
+  - 图与Bioinfomatics
+  - 图与Code
+  - 图与组合优化
 
 # Education to show in About widget
-education:
-  courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+相关会议:
+  - ICML
+  - KDD
+  - NeurIPS
+  - ICLR
+  - IJCAI
+  - AAAI
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
