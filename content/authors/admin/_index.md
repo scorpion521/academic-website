@@ -8,7 +8,7 @@ superuser: true
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
-# Interests to show in About widget
+# 相关主题
 相关主题:
   - 图表示学习
   - 图神经网络：表达性，可扩展性，鲁棒性等
@@ -22,7 +22,7 @@ bio: My research interests include distributed robotics, mobile computing and pr
   - 图与Code
   - 图与组合优化
 
-# Education to show in About widget
+# 相关会议
 相关会议:
   - ICML
   - KDD
