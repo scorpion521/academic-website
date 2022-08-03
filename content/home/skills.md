@@ -17,8 +17,8 @@ subtitle:
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
   - description: 90%
-    icon: Academicons
-    icon_pack: academia
+    icon: academia
+    icon_pack: ai
     name: academia
   - description: 100%
     icon: chart-line
