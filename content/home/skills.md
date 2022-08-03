@@ -25,9 +25,9 @@ feature:
     icon_pack: fas
     name: Statistics
   - description: 10%
-    icon: camera-retro
-    icon_pack: fas
-    name: Photography
+    icon: figshare
+    icon_pack: ai
+    name: GNN
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
 #  icon_pack: "emoji"
