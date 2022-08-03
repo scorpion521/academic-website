@@ -16,7 +16,7 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-  - description: 90%
+  - description: 100%
     icon: academia
     icon_pack: ai
     name: academia
@@ -24,7 +24,7 @@ feature:
     icon: chart-line
     icon_pack: fas
     name: Statistics
-  - description: 10%
+  - description: 100%
     icon: figshare
     icon_pack: ai
     name: GNN
